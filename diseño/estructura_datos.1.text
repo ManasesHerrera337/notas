@@ -1,0 +1,67 @@
+[
+	[1] => [
+		'nombres' => 'Manases Herrera',
+		'curso' => '5to año',
+		'seccion' => 'D',
+		'fecha' => '25/4/2020',
+		'asignaturas' => [
+			'Inglés y otras lenguas extranjeras' => [
+						'lapso1' => '12',	
+						'lapso2' => '12',		
+						'lapso3' => '12',
+						'puntos ajuste' => '12',
+						'definitiva' => '12'		
+						]
+
+			],
+			'Matemática'  => [
+						'lapso1' => '12',	
+						'lapso2' => '12',		
+						'lapso3' => '12',
+						'puntos ajuste' => '12',
+						'definitiva' => '12'		
+						]
+			],
+	]
+
+]
+
+Array
+(
+    [0] => Array
+        (
+            [0] => Array
+                (
+                    [0] => Registration number
+                    [1] => Brand
+                    [2] => Model
+                    [3] => Type
+                    [4] => Fuel Type
+                    [5] => Year
+                    [6] => Doors
+                    [7] => Active
+                )
+
+            [1] => Array
+                (
+                    [0] => OSH-376
+                    [1] => Samand
+                    [2] => LX
+                    [3] => MPV
+                    [4] => electric
+                    [5] => 2009
+                    [6] => 6
+                    [7] => YES
+                )
+
+            [2] => Array
+                (
+                    [0] => WVY-688
+                    [1] => Jinbei Minibusus
+                    [2] => SY6482Q2
+                    [3] => small
+                    [4] => diesel
+                    [5] => 2016
+                    [6] => 4
+                    [7] => YES
+                )

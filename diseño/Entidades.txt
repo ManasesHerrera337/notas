@@ -1,0 +1,54 @@
+Modelos de Entidades:
+	Alumno Aspirante:	
+		**Datos personales:
+		.- Nacionalidad
+		.- Cedula
+		.- Nombres
+		.- Apellidos
+		.- Sexo
+		.- Edad
+		.- Lugar de nacimiento
+		.- fecha de nacimiento
+		.- Direccion
+		
+		
+		
+
+	Representante: padre y madre
+		.- Nacionalidad
+		.- Cedula
+		.- Nombres
+		.- Apellidos
+		.- Profesion
+		.- Lugar de trabajo  
+		.- Cargo
+		.- Telefono Celular
+		.- Email
+		.- Direccion de habitacion
+		.- Telefono de habitacion
+		.- Fecha de nacimiento
+		.- Exalumno del colegio?
+		.- Estado civil
+
+	Academico: Datos academicos
+		.- Grado a cursar
+		.- Colegio de procedencia
+		.- Referencia en el colegio
+		.- Observaciones	
+
+	Informacion Complementaria:
+		.- Practica algun deporte?
+		.- Esta iniciado en musica? - en que area?
+		.- A donde acostumbran ir los fines de semana y feriados con su hijo? (a)
+		.- Lugar que ocupa dentro del nucleo familiar
+		.- Como esta constituido el nucleo Familiar?
+		.- Quien lo recibira en su casa?
+		.- Comparte su habitacion? con quien? que edad tiene?
+		.- Realiza su hijo alguna actividad en el hogar? cual? con que frecuencia lo hace? es responsable con el cumplimiento de esa tarea?
+		.- en la relacion de ud con su hijo, que le inquieta?
+		.- que suelen hacer durante la intercomunicacion diaria con su hijo (a) ?
+		.- tiene hermanos en el colegio?
+		.-¿Qué les motiva a solicitar cupo para su hijo(a) en el Colegio Emil Friedman?
+		.-¿A cuáles aspectos de la educación, el Colegio Emil Friedman da especial importancia?
+		.-El Logro del buen funcionamiento de la rutina escolar depende de la cooperación de toda la comunidad del C.E.F. De acuerdo con su criterio la influencia que tienen los siguientes aspectos en el logro de ese funcionamiento en cuanto al cumplimiento de:
+		

@@ -1,0 +1,4 @@
+***Super usuario***
+user:root
+mail:roor@root.com
+pass: nhI,sVsC1 
